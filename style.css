@@ -182,7 +182,7 @@ body.dark-mode #historico li {
     }
 
     h2 {
-        font-size: 1rem;
+        font-size: 17px;
     }
 
     .container {
@@ -196,11 +196,11 @@ body.dark-mode #historico li {
     }
 
     #historico li {
-        font-size: 0.875rem;
+        font-size: 15px;
         padding: 8px 10px;
     }
 
     #historico li .entrada, #historico li .saida {
-        font-size: 0.875rem;
+        font-size: 15px;
     }
 }
