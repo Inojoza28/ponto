@@ -170,6 +170,7 @@ body.dark-mode #historico li {
     }
     .container{
         width: 92%;
+        overflow-x: hidden;
     }
     #relogio {
         font-size: 1.5rem;
