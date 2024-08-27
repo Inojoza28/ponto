@@ -164,6 +164,10 @@ body.dark-mode #historico li {
 /* Estilos responsivos */
 
 @media (max-width: 600px) {
+
+    .container{
+        width: 92%;
+    }
     #relogio {
         font-size: 1.5rem;
     }
